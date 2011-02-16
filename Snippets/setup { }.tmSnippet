@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>setup { $1 }</string>
+	<key>name</key>
+	<string>setup { }</string>
+	<key>scope</key>
+	<string>source.ruby.riot</string>
+	<key>tabTrigger</key>
+	<string>setb</string>
+	<key>uuid</key>
+	<string>501B75A0-A9DA-4831-A1DA-26ABA1F572DB</string>
+</dict>
+</plist>

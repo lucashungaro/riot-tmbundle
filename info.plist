@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>381BD122-F4D2-4355-ABEB-6EAA8875A582</string>
+			<string>9EAA72BB-A7CB-4BE1-BA1D-DBFE8A6553D0</string>
+			<string>501B75A0-A9DA-4831-A1DA-26ABA1F572DB</string>
+			<string>------------------------------------</string>
+		</array>
+		<key>submenus</key>
+		<dict/>
+	</dict>
+	<key>name</key>
+	<string>Riot</string>
+	<key>ordering</key>
+	<array>
+		<string>381BD122-F4D2-4355-ABEB-6EAA8875A582</string>
+		<string>9EAA72BB-A7CB-4BE1-BA1D-DBFE8A6553D0</string>
+		<string>501B75A0-A9DA-4831-A1DA-26ABA1F572DB</string>
+		<string>A900D9E9-C71A-41F0-AC6D-96082217D9BC</string>
+		<string>DC626A28-31F3-4E5A-8FE0-80BF9571B7BE</string>
+		<string>0008F0B7-10F3-4B6A-94FC-23C04200E693</string>
+		<string>1E37B998-5B25-401D-883E-D397D8604CDC</string>
+		<string>57D92477-57D4-4DE1-A975-D36E15726D93</string>
+	</array>
+	<key>uuid</key>
+	<string>35660C77-A83B-404F-BD2E-898EB8791358</string>
+</dict>
+</plist>
