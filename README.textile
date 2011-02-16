@@ -1,0 +1,29 @@
+h1. Riot TextMate bundle
+
+A simple TextMate bundle for the Riot ruby unit testing framework
+
+Does this code helps your daily work with Ruby? So, "please recommend me in Work With Rails":http://workingwithrails.com/recommendation/new/person/9370-lucas-h-ngaro and thanks for your kindness! :)
+
+h2. Installation
+
+<pre>
+  cd ~/Library/Application\ Support/TextMate/Bundles
+  git clone git://github.com/lucashungaro/riot-tmbundle.git Riot.tmbundle
+  osascript -e 'tell app "TextMate" to reload bundles'
+</pre>
+
+Have fun!
+
+h2. Note on Patches/Pull Requests
+
+* Fork the project.
+* Make your feature addition or bug fix and commit it.
+* Send me a pull request.
+
+h2. Contributors
+
+You?
+
+h3. License
+
+riot-tmbundle is released under the MIT license. See "MIT LICENSE":https://github.com/lucashungaro/riot-tmbundle/blob/master/MIT-LICENSE.
