@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>feature %Q{
+  ${1:As a ${2:role}},
+  ${3:I want ${4:goal}}
+  ${5:So that ${6:benefit}}
+} do
+  $7
+end</string>
+	<key>name</key>
+	<string>feature</string>
+	<key>scope</key>
+	<string>source.ruby.riot</string>
+	<key>tabTrigger</key>
+	<string>fea</string>
+	<key>uuid</key>
+	<string>6EC9765D-7875-4707-8877-91015F3A1D20</string>
+</dict>
+</plist>

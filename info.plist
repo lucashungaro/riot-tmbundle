@@ -10,20 +10,43 @@
 			<string>9EAA72BB-A7CB-4BE1-BA1D-DBFE8A6553D0</string>
 			<string>501B75A0-A9DA-4831-A1DA-26ABA1F572DB</string>
 			<string>------------------------------------</string>
+			<string>A900D9E9-C71A-41F0-AC6D-96082217D9BC</string>
+			<string>DC626A28-31F3-4E5A-8FE0-80BF9571B7BE</string>
+			<string>1E37B998-5B25-401D-883E-D397D8604CDC</string>
+			<string>0008F0B7-10F3-4B6A-94FC-23C04200E693</string>
+			<string>------------------------------------</string>
+			<string>C81B1C00-F0E9-4589-9AAF-F895B4B6F238</string>
 		</array>
 		<key>submenus</key>
-		<dict/>
+		<dict>
+			<key>C81B1C00-F0E9-4589-9AAF-F895B4B6F238</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>5997D118-CCC9-4670-8B2D-8D914D931DD8</string>
+					<string>6EC9765D-7875-4707-8877-91015F3A1D20</string>
+					<string>55A1C198-80AE-45E8-8C95-249D17553ACE</string>
+					<string>CAF4D750-4737-48F6-9682-420BCAA31F34</string>
+				</array>
+				<key>name</key>
+				<string>Melee</string>
+			</dict>
+		</dict>
 	</dict>
 	<key>name</key>
 	<string>Riot</string>
 	<key>ordering</key>
 	<array>
 		<string>381BD122-F4D2-4355-ABEB-6EAA8875A582</string>
+		<string>6EC9765D-7875-4707-8877-91015F3A1D20</string>
+		<string>5997D118-CCC9-4670-8B2D-8D914D931DD8</string>
+		<string>CAF4D750-4737-48F6-9682-420BCAA31F34</string>
 		<string>9EAA72BB-A7CB-4BE1-BA1D-DBFE8A6553D0</string>
 		<string>501B75A0-A9DA-4831-A1DA-26ABA1F572DB</string>
 		<string>A900D9E9-C71A-41F0-AC6D-96082217D9BC</string>
 		<string>DC626A28-31F3-4E5A-8FE0-80BF9571B7BE</string>
 		<string>0008F0B7-10F3-4B6A-94FC-23C04200E693</string>
+		<string>55A1C198-80AE-45E8-8C95-249D17553ACE</string>
 		<string>1E37B998-5B25-401D-883E-D397D8604CDC</string>
 		<string>57D92477-57D4-4DE1-A975-D36E15726D93</string>
 	</array>
